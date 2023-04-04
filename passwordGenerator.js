@@ -1,5 +1,3 @@
-
-
 function generatePassword() {
 
     const char = ["a", "b", "c", "d"]
